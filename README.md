@@ -69,15 +69,15 @@ Escolha a moeda base:
 1. USD - Dólar Americano
 2. EUR - Euro
 3. BRL - Real Brasileiro
-...
 0. Sair
+
 1
 
 Escolha a moeda de destino:
 1. USD - Dólar Americano
 2. EUR - Euro
 3. BRL - Real Brasileiro
-...
+
 2
 
 Digite o valor em USD que deseja converter: 100
